@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="graphicslib3D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Required/graphicslib3D/graphicslib3D.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Required/jogamp-all-platforms/jar/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Required/jogamp-all-platforms/jar/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
